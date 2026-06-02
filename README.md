@@ -18,7 +18,7 @@ Each problem gets its own folder named after the problem. Solutions are in `Solu
 
 | Section               | Solved | Total   |
 | --------------------- | ------ | ------- |
-| Introductory Problems | 2      | 19      |
+| Introductory Problems | 3      | 19      |
 | Sorting and Searching | 0      | 35      |
 | Dynamic Programming   | 0      | 19      |
 | Graph Algorithms      | 0      | 36      |
