@@ -28,7 +28,7 @@ Each problem gets its own folder named after the problem. Solutions are in `Solu
 | String Algorithms     | 0      | 17      |
 | Geometry              | 0      | 7       |
 | Advanced Techniques   | 0      | 24      |
-| **Total**             | **2**  | **300** |
+| **Total**             | **3**  | **300** |
 
 ## Language
 
