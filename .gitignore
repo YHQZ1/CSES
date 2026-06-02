@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
