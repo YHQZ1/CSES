@@ -1,18 +1,10 @@
-# CSES Problem Set — Solutions
+# CSES Problem Set - Solutions
 
-Solutions to the [CSES Problem Set](https://cses.fi/problemset/) in Java, solved as part of structured competitive programming and FAANG interview prep.
+Solutions to the [CSES Problem Set](https://cses.fi/problemset/) solved as part of structured competitive programming prep.
 
 ## Structure
 
-Each problem gets its own folder named after the problem. Solutions are in `Solution.java`.
-
-```
-.
-├── Problem Name/
-│   ├── Solution.java
-│   └── Solution.class
-└── ...
-```
+Each problem gets its own folder. Solutions are named `Solution.<ext>`.
 
 ## Progress
 
@@ -30,12 +22,8 @@ Each problem gets its own folder named after the problem. Solutions are in `Solu
 | Advanced Techniques   | 0      | 24      |
 | **Total**             | **3**  | **300** |
 
-## Language
-
-Java — compiled with standard `javac`, no external libraries.
-
 ## Links
 
 - [CSES Problem Set](https://cses.fi/problemset/)
 - [My CSES Profile](https://cses.fi/user/432713)
-- [CP Handbook](https://cses.fi/book/book.pdf) — by the same author, pairs well with this set
+- [CP Handbook](https://cses.fi/book/book.pdf)
